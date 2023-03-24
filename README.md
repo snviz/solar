@@ -1,4 +1,5 @@
-# solar
+
+
 # Solar Correlation Map
 A new way to visualize correlations. 
 
